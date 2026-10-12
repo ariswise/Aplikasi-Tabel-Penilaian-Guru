@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Tabel Penilaian Guru",
+  "description": "Aplikasi web profesional pengelolaan dan tabel penilaian guru untuk semua jenjang dan mata pelajaran: Asesmen Diagnostik, Formatif, Sumatif Materi, STS, dan SAS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
